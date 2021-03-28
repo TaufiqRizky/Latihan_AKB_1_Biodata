@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Akb1</string>
+    <string name="ttl"><![CDATA[Tempat & Tgl Lahir :]]></string>
+    <string name="ttl_V">Bandung 19 Agustus 2000</string>
+    <string name="nama">Taufiq Rizky</string>
+    <string name="alamat">jl.Taman Saturnus 1 , no.45</string>
+    <string name="nim_kelas">UNIKOM - IF2/S1/VI (10118080)</string>
+    <string name="jk">Jenis Kelamin :</string>
+    <string name="jk_V">Laki - Laki</string>
+    <string name="goldar">Golongan Darah :</string>
+    <string name="goldar_V">O</string>
+    <string name="minuman">Minuman Kesukaan :</string>
+    <string name="minuman_V">Es Teh Manis</string>
+    <string name="makanan">Makanan Kesukaan :</string>
+    <string name="makanan_V">Rawon</string>
+    <string name="hobi">Hobi :</string>
+    <string name="hobi_V">Futsal</string>
+    <string name="lagu">Lagu Favorit :</string>
+    <string name="lagu_V">Rumpang - Nadin Amizah</string>
+    <string name="film">Film Favorit :</string>
+    <string name="film_V">Transformers</string>
+    <string name="kerja">Pekerjaan Yang Di Inginkan :</string>
+    <string name="kerja_V">Web Dan Mobile Dev</string>
+</resources>
